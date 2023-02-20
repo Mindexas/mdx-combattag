@@ -1,7 +1,8 @@
 
 # mdx-combattag
 
-This script is used for maintaining a player in a zone after he has fired a weapon. It's usefull for PvP servers, but you may find some other uses.
+This script is used for maintaining a player in a zone after he has fired a weapon. It's useful for PvP servers, but you may find some other uses.
+I have made it myself and had no intention to make it public, but maybe someone wants it, I guess it's a nice solution.
 
 Have fun with it. 
 
