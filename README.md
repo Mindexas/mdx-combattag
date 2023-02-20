@@ -1,4 +1,4 @@
-
+![mdx-combattag](https://user-images.githubusercontent.com/88283407/220150027-ff734d98-1ce0-424a-8998-0b24649f664b.jpg)
 # mdx-combattag
 
 This script is used for maintaining a player in a zone after he has fired a weapon. It's useful for PvP servers, but you may find some other uses.
